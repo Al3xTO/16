@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\Stratbuy\Stratbuy\bin\Debug\Stratbuy.exe.config
+C:\Users\Admin\Documents\Stratbuy\Stratbuy\bin\Debug\Stratbuy.exe
+C:\Users\Admin\Documents\Stratbuy\Stratbuy\bin\Debug\Stratbuy.pdb
+C:\Users\Admin\Documents\Stratbuy\Stratbuy\obj\Debug\Stratbuy.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Stratbuy\Stratbuy\obj\Debug\Stratbuy.Form1.resources
+C:\Users\Admin\Documents\Stratbuy\Stratbuy\obj\Debug\Stratbuy.Properties.Resources.resources
+C:\Users\Admin\Documents\Stratbuy\Stratbuy\obj\Debug\Stratbuy.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Stratbuy\Stratbuy\obj\Debug\Stratbuy.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Stratbuy\Stratbuy\obj\Debug\Stratbuy.exe
+C:\Users\Admin\Documents\Stratbuy\Stratbuy\obj\Debug\Stratbuy.pdb
